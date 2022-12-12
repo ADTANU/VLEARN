@@ -1,0 +1,11 @@
+body{
+    background-image: url('./grp.jpg');
+    background-size: 1800px 900px;
+    background-repeat: no-repeat;
+    top: -20px;
+    left: 100px;
+    height: 700px;
+    width: 400px;
+    padding: 80px 0 80px 0;
+    opacity: 50%;
+}

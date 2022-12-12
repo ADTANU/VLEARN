@@ -1,0 +1,283 @@
+body{
+    background-image: url('select department img.png');
+    position: fixed;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 1500px 650px;
+}
+
+.back{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 20px; 
+    cursor: pointer;
+}
+
+.backsd{
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-radius: 10px; 
+    left: 710px;
+    top: 30px;
+}
+
+h1{
+    position: fixed;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    top: 28px;
+    left: 750px;
+    color: black;
+}
+
+.image1{
+    height: 60px;
+    width: 65px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+
+a:link{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    left: 710px;
+    top: 100px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.Aero{
+    background-image: url('aeronautical.png');
+}
+
+.Ai{
+    background-image: url('ai.png');
+}
+
+.Bio{
+    background-image: url('biomedical.png');
+}
+
+.Chem{
+    background-image: url('chemical.png');
+}
+
+.Civil{
+    background-image: url('civil.png');
+}
+
+.Cse{
+    background-image: url('Cse.png');
+}
+
+.Ece{
+    background-image: url('ece.png');
+}
+
+.Eee{
+    background-image: url('eee.png');
+}
+
+.It{
+    background-image: url('it.png');
+}
+
+.Mech{
+    background-image: url('mech.png');
+}
+
+
+.position1{
+    position: absolute;
+    top: 140px;
+    left: 550px;
+}
+
+.position2{
+    position: absolute;
+    top: 140px;
+    left: 700px;
+}
+
+.position3{
+    position: absolute;
+    top: 140px;
+    left: 850px;
+}
+
+.position4{
+    position: absolute;
+    top: 140px;
+    left: 1000px;
+}
+
+.position5{
+    position: absolute;
+    top: 140px;
+    left: 1150px;
+}
+
+.position6{
+    position: absolute;
+    top: 350px;
+    left: 550px;
+}
+
+.position7{
+    position: absolute;
+    top: 350px;
+    left: 700px;
+}
+
+.position8{
+    position: absolute;
+    top: 350px;
+    left: 850px;
+}
+
+.position9{
+    position: absolute;
+    top: 350px;
+    left: 1000px;
+}
+
+.position10{
+    position: absolute;
+    top: 350px;
+    left: 1150px;
+}
+
+p1{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 255px;
+    left: 560px;
+}
+
+p2{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 255px;
+    left: 710px;
+}
+
+p3{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 255px;
+    left: 860px;
+}
+
+p4{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 255px;
+    left: 1010px;
+}
+
+p5{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 255px;
+    left: 1160px;
+}
+
+p6{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 465px;
+    left: 560px;
+}
+
+p7{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 465px;
+    left: 710px;
+}
+
+p8{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 465px;
+    left: 860px;
+}
+
+p9{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 465px;
+    left: 1010px;
+}
+
+p10{
+    position: fixed;
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 5px 5px;
+    top: 465px;
+    left: 1160px;
+}
+
+
+.btn{
+    background-color: white;
+    color: black;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px 10px;
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 550px;
+    top: 600px;
+}
+
+.btn2{
+    background-color: white;
+    color: black;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px 10px;
+    position: absolute;
+    width: 125px;
+    height: 40px;
+    left: 1120px;
+    top: 600px;
+}
